@@ -1,0 +1,34 @@
+  [
+  {
+    "titulo": "El Incal",
+    "anioPublicacion": 1980,
+    "editorial": "Les Humanoïdes Associés",
+    "sinopsis": "Una epopeya de ciencia ficción que sigue a John DiFool, un detective de clase baja, después de que encuentra un antiguo artefacto llamado 'El Incal'. Escrito por Alejandro Jodorowsky y dibujado por Moebius, la historia mezcla elementos de ciencia ficción, fantasía, sátira y espiritualidad.",
+    "generos": ["Ciencia ficción", "Fantasía", "Aventura"],
+    "autorId": "[ID_DE_MOEBIUS]"
+  },
+  {
+    "titulo": "Arzach",
+    "anioPublicacion": 1975,
+    "editorial": "Metal Hurlant",
+    "sinopsis": "Una serie de historias surrealistas prácticamente sin diálogo que siguen a un guerrero silencioso que vuela sobre un mundo alienígena a lomos de un pterodáctilo. Considerada una obra maestra del cómic de fantasía y ciencia ficción.",
+    "generos": ["Fantasía", "Ciencia ficción", "Surrealismo"],
+    "autorId": "[ID_DE_MOEBIUS]"
+  },
+  {
+    "titulo": "The Airtight Garage",
+    "anioPublicacion": 1976,
+    "editorial": "Metal Hurlant",
+    "sinopsis": "Una serie de historias interconectadas que tienen lugar en un universo en miniatura llamado 'El Garaje Hermético de Lewis Carnelian'. La narrativa es intencionalmente no lineal y fragmentada, permitiendo a Moebius improvisar y crear una obra altamente surrealista.",
+    "generos": ["Ciencia ficción", "Surrealismo", "Fantasía"],
+    "autorId": "[ID_DE_MOEBIUS]"
+  },
+  {
+    "titulo": "The Long Tomorrow",
+    "anioPublicacion": 1976,
+    "editorial": "Metal Hurlant",
+    "sinopsis": "Una historia de ciencia ficción noir escrita por Dan O'Bannon y dibujada por Moebius. Es conocida por haber influido significativamente en la estética visual de películas como 'Blade Runner' y 'El Quinto Elemento'.",
+    "generos": ["Ciencia ficción", "Noir", "Cyberpunk"],
+    "autorId": "[ID_DE_MOEBIUS]"
+  }
+]

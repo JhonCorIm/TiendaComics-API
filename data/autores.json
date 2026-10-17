@@ -1,0 +1,80 @@
+
+[
+  {
+    "nombre": "Jean",
+    "apellido": "Giraud",
+    "nombreArtistico": "Moebius",
+    "nacionalidad": "Francés",
+    "fechaNacimiento": "1938-05-08",
+    "fechaFallecimiento": "2012-03-10",
+    "biografia": "Jean Giraud, conocido por su seudónimo Moebius, fue un historietista francés considerado uno de los artistas más influyentes del cómic. Su trabajo se caracteriza por mundos surrealistas y una línea clara y detallada. Influyó enormemente en el cine de ciencia ficción, incluyendo obras como 'Blade Runner', 'Alien' y 'El Quinto Elemento'."
+  },
+  {
+    "nombre": "Alan",
+    "apellido": "Moore",
+    "nacionalidad": "Británico",
+    "fechaNacimiento": "1953-11-18",
+    "biografia": "Alan Moore es un escritor británico conocido por su trabajo en cómics innovadores y de gran profundidad filosófica. Sus obras a menudo deconstruyen el género de superhéroes y abordan temas políticos y sociales complejos."
+  },
+  {
+    "nombre": "Frank",
+    "apellido": "Miller",
+    "nacionalidad": "Estadounidense",
+    "fechaNacimiento": "1957-01-27",
+    "biografia": "Frank Miller es un autor de cómics, guionista y director de cine estadounidense. Es conocido por su estilo noir y sus reinterpretaciones oscuras de personajes clásicos como Batman y Daredevil."
+  },
+  {
+    "nombre": "Neil",
+    "apellido": "Gaiman",
+    "nacionalidad": "Británico",
+    "fechaNacimiento": "1960-11-10",
+    "biografia": "Neil Gaiman es un autor de ficción, novelas, cómics, novelas gráficas, teatro, y guiones. Su obra más conocida en cómics es The Sandman, considerada una de las mejores series de novelas gráficas jamás escritas."
+  },
+  {
+    "nombre": "Marjane",
+    "apellido": "Satrapi",
+    "nacionalidad": "Iraní",
+    "fechaNacimiento": "1969-11-22",
+    "biografia": "Marjane Satrapi es una autora de cómics, ilustradora, directora de cine y escritora infantil iraní. Es conocida principalmente por su novela gráfica autobiográfica Persépolis."
+  },
+  {
+    "nombre": "Francisco",
+    "apellido": "Ibáñez",
+    "nacionalidad": "Español",
+    "fechaNacimiento": "1936-03-15",
+    "fechaFallecimiento": "2023-07-15",
+    "biografia": "Francisco Ibáñez fue un historietista español, creador de numerosas series de historietas humorísticas, entre las que destaca Mortadelo y Filemón."
+  },
+  {
+    "nombre": "Quino",
+    "apellido": "Lavado",
+    "nombreArtistico": "Quino",
+    "nacionalidad": "Argentino",
+    "fechaNacimiento": "1932-07-17",
+    "fechaFallecimiento": "2020-09-30",
+    "biografia": "Joaquín Salvador Lavado Tejón, conocido como Quino, fue un humorista gráfico y creador de historietas argentino. Su obra más conocida es la tira cómica Mafalda."
+  },
+  {
+    "nombre": "Osamu",
+    "apellido": "Tezuka",
+    "nacionalidad": "Japonés",
+    "fechaNacimiento": "1928-11-03",
+    "fechaFallecimiento": "1989-02-09",
+    "biografia": "Osamu Tezuka fue un dibujante de manga, animador, productor y médico japonés. Se le conoce como el 'padre del manga' y es considerado el manga-ka más importante de la historia."
+  },
+  {
+    "nombre": "Stan",
+    "apellido": "Lee",
+    "nacionalidad": "Estadounidense",
+    "fechaNacimiento": "1922-12-28",
+    "fechaFallecimiento": "2018-11-12",
+    "biografia": "Stan Lee fue un escritor y editor de cómics estadounidense, principalmente para Marvel Comics. Junto con varios artistas, co-creó numerosos personajes populares, incluyendo superhéroes como Spider-Man, los X-Men, Iron Man, Thor, Hulk, entre otros."
+  },
+  {
+    "nombre": "Art",
+    "apellido": "Spiegelman",
+    "nacionalidad": "Estadounidense",
+    "fechaNacimiento": "1948-02-15",
+    "biografia": "Art Spiegelman es un historietista, editor e ilustrador estadounidense. Su obra más famosa es 'Maus', una novela gráfica que relata las experiencias de su padre como superviviente del Holocausto."
+  }
+]
